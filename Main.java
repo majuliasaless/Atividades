@@ -2,8 +2,6 @@ import java.util.Scanner;
 public class Main{
 public static void main(String[] args){
 Scanner myObj = new Scanner (System.in);
-System.out.println ("Fatorial");
-System.out.println ("============");
 System.out.println ("Insira o número");
 
 int x = myObj.nextInt();
